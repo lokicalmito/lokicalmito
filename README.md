@@ -1,2 +1,2 @@
-- I’m interested in Web3 tech;
+- FLOSS enthusiast;
 - I’m currently learning Vue.js;
