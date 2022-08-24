@@ -3,4 +3,5 @@
 - I know my way around Blender;
 - I’m currently learning Vue.js and Rust;
 
-[Gitlab Account](https://gitlab.com/lokicalmito)
+**[Website](https://lokicalmito.github.io/)**,
+**[Gitlab Account](https://gitlab.com/lokicalmito)**
